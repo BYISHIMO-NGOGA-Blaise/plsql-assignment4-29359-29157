@@ -14,7 +14,8 @@ Functions, and Exception Handling
 | Blaise BYISHIMO NGOGA | 29359 |
 | UWAYESU Samuel | 29157 |
 
-> Public repository: `plsql-assignment4-29359-29157`.
+> Public repository:
+> [plsql-assignment4-29359-29157](https://github.com/BYISHIMO-NGOGA-Blaise/plsql-assignment4-29359-29157).
 
 ---
 
@@ -410,7 +411,7 @@ The full explanation is in
 - [x] Implementation and performance notes completed
 - [x] Screenshots added to `screenshots/`
 - [x] Group of exactly two students confirmed
-- [ ] Public GitHub repository named `plsql-assignment4-29359-29157`
+- [x] Public GitHub repository named `plsql-assignment4-29359-29157`
 - [ ] Both members have meaningful commits
 - [ ] GitHub link submitted through the Google Form
 - [ ] Both members prepared for the presentation and individual questions
