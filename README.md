@@ -9,7 +9,7 @@
 
 | Name | Student ID |
 |------|------------|
-| Blaise BYISHIMO NGOGA | 29359 |
+| BYISHIMO NGOGA Blaise | 29359 |
 | UWAYESU Samuel | 29157 |
 
 **Repository:** [plsql-assignment4-29359-29157](https://github.com/BYISHIMO-NGOGA-Blaise/plsql-assignment4-29359-29157)
@@ -235,6 +235,6 @@ The full design and performance discussion is in
 
 ## Development Note
 
-The SQL/PL/SQL scripts, tests, and documentation were drafted with AI assistance
+Some SQL/PL/SQL scripts, tests, and documentation were drafted with AI assistance
 (opencode). Both group members are responsible for reviewing, executing, and
 explaining the final artifacts during the presentation.
